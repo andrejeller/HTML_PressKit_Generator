@@ -43,13 +43,13 @@ Assim, não existe forma mais facil de explicar como ele funcionar além de "bai
 
 ### O Programa / O Resultado
 
-![](./images/img_0.jpg) 
-![](./images/img_1.jpg)
-![](./images/img_2.jpg)
-![](./images/img_3.jpg)
-![](./images/img_4.jpg)
-![](./images/img_5.jpg)
-![](./images/img_6.jpg)
+![](./images/imgg_0.jpg) 
+![](./images/imgg_1.jpg)
+![](./images/imgg_2.jpg)
+![](./images/imgg_3.jpg)
+![](./images/imgg_4.jpg)
+![](./images/imgg_5.jpg)
+![](./images/imgg_6.jpg)
 
 #### Links 
 - http://dopresskit.com/
@@ -60,6 +60,7 @@ Assim, não existe forma mais facil de explicar como ele funcionar além de "bai
 - https://www.vlambeer.com/
 
 ---
+#### | (enUS) International English
 
 [SEE THE RESULT DEMO](https://www.andrejeller.com/press/br.html)
 
@@ -95,13 +96,13 @@ Thus, there is no easier way to explain how it works than "download and run the 
 
 #### The 'Application' / The Resultado
 
-![](./images/img_0.jpg) 
-![](./images/img_1.jpg)
-![](./images/img_2.jpg)
-![](./images/img_3.jpg)
-![](./images/img_4.jpg)
-![](./images/img_5.jpg)
-![](./images/img_6.jpg)
+![](./images/imgg_0.jpg) 
+![](./images/imgg_1.jpg)
+![](./images/imgg_2.jpg)
+![](./images/imgg_3.jpg)
+![](./images/imgg_4.jpg)
+![](./images/imgg_5.jpg)
+![](./images/imgg_6.jpg)
 
 #### Links 
 - http://dopresskit.com/
