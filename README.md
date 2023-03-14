@@ -7,7 +7,7 @@ Language:
 
 #### | (ptBR) Português BR
 
-[VEJA UMA DEMO DO RESULTADO](https://www.andrejeller.com/press/br.html)
+[VEJA UMA DEMO DO RESULTADO](http://www.andrejeller.com/HTML_PressKit_Generator/demo/)
 
 
 _HTML PressKit Generator_ é uma forma de criar uma página [doPresskit()](http://dopresskit.com/) em html para a sua empresa sem a necessicade do uso de um servidor, local ou não, como em sua implementação [original](http://dopresskit.com/) ou em [presskit.html](https://pixelnest.io/products/presskit.html/).
@@ -62,7 +62,7 @@ Assim, não existe forma mais facil de explicar como ele funcionar além de "bai
 ---
 #### | (enUS) International English
 
-[SEE THE RESULT DEMO](https://www.andrejeller.com/press/br.html)
+[SEE THE RESULT DEMO](http://www.andrejeller.com/HTML_PressKit_Generator/demo/)
 
 _HTML PressKit Generator_ is a way to create a [doPresskit()](http://dopresskit.com/) page in html for your company without the need to use a server, local or not, as in [original implementation](http://dopresskit.com/) or in [presskit.html](https://pixelnest.io/products/presskit.html/).
 
